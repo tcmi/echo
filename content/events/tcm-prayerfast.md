@@ -4,7 +4,7 @@ title: TCM PrayerFast
 eventInformation:
   startTime: Saturday, November 14, 2020 10:00 AM
   endTime: Saturday, November 14, 2020 12:00 PM
-  livestreamUrl: https://www.youtube.com/embed/live_stream?channel=UCk7NIEfePsYZa-7Q3z1OW6w&autoplay=1&cc_load_policy=1&controls=0&iv_load_policy=3&modestbranding=1
+  livestreamUrl: https://www.youtube.com/embed/live_stream?channel=UC0_fTUzhujI26YCAy-ybBDA&autoplay=1&cc_load_policy=1&controls=0&iv_load_policy=3&modestbranding=1
   timezone:
     value: America/Detroit
     label: (GMT-4:00) Eastern Time (US and Canada)
@@ -21,7 +21,10 @@ eventBranding:
 eventSchedule:
   - startTime: November 14, 10:00 AM
     title: Welcome
-    description: Welcome to the TCM PrayerFast
+    description: Tony Twist
+  - startTime: November 14, 10:02 AM
+    title: Greetings from Board and Faculty
+    description: Board/Facutly
 eventRooms:
   - slug: tcm-prayerfast-room-1
     title: PrayerFast Room 1
