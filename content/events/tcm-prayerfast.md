@@ -4,7 +4,7 @@ title: TCM PrayerFast
 eventInformation:
   startTime: Saturday, November 14, 2020 10:00 AM
   endTime: Saturday, November 14, 2020 12:00 PM
-  livestreamUrl: https://www.youtube.com/embed/live_stream?channel=UCk7NIEfePsYZa-7Q3z1OW6w&autoplay=1&cc_load_policy=1&controls=0&iv_load_policy=3&modestbranding=1
+  livestreamUrl: https://www.youtube.com/embed/live_stream?channel=UC0_fTUzhujI26YCAy-ybBDA&autoplay=1&cc_load_policy=1&controls=0&iv_load_policy=3&modestbranding=1
   timezone:
     value: America/Detroit
     label: (GMT-4:00) Eastern Time (US and Canada)
