@@ -21,7 +21,10 @@ eventBranding:
 eventSchedule:
   - startTime: November 14, 10:00 AM
     title: Welcome
-    description: Welcome to the TCM PrayerFast
+    description: Tony Twist
+  - startTime: November 14, 10:02 AM
+    title: Greetings from Board and Faculty
+    description: Board/Facutly
 eventRooms:
   - slug: tcm-prayerfast-room-1
     title: PrayerFast Room 1
