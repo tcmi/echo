@@ -14,7 +14,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "gatsby": "^2.24.66",
-    "gatsby-theme-echo": "1.0.0",
+    "gatsby-theme-echo": "kalebheitzman/gatsby-theme-echo#develop",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
