@@ -15,7 +15,7 @@ eventBranding:
   htmlBackground: "#333333"
   bodyBackground: "#ffffff"
   primaryBackground: "#378ce2"
-  primaryBackgroundHover: "#4e98e4"
+  primaryBackgroundHover: "#378ce2"
   primaryTextColor: "#ffffff"
   defaultTextColor: "#333333"
 eventSchedule:
@@ -87,7 +87,7 @@ eventQA:
   - question: Where can I learn more?
     answer: Visit tcmi.edu
 eventSettings:
-  allEvents: true
+  allEvents: false
   mainStage: true
   mainStageLabel: Live
   rooms: true
