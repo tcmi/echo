@@ -79,11 +79,13 @@ eventSchedule:
   - startTime: November 14, 11:55 AM
     title: Closing Comments
     description: An invitation to be a prayer supporter
-
 eventRooms:
   - slug: tcm-prayerfast-room-1
     title: PrayerFast Room 1
     description: Room 1 For the PrayerFast
+eventQA:
+  - question: Where can I learn more?
+    answer: Visit tcmi.edu
 eventSettings:
   allEvents: true
   mainStage: true
