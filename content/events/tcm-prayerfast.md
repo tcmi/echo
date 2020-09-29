@@ -27,10 +27,10 @@ eventRooms:
     title: PrayerFast Room 1
     description: Room 1 For the PrayerFast
 eventSettings:
-  allEvents: "true"
-  mainStage: "true"
+  allEvents: true
+  mainStage: true
   mainStageLabel: Live
-  rooms: "true"
+  rooms: true
   roomsLabel: Tables
   qa: false
   qaLabel: Q&A
